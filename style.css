@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+
+    background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);()
+
+}
+h1{
+    background:orange;
+    color: green;
+    padding: 20px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    border: radius 10px;
+}
+h2{
+    text-align: center;
+    color:green;
+}
+ul{
+    text-align: center;
+    color: green;
+}
+h3{
+    text-align: center;
+    color: goldenrod;
+
+}
+ol{
+    color: goldenrod;
+}
+p{
+    text-align: center;
+    color: yellow;
+    background: brown;
+    text-transform: uppercase;
+    font-style: italic;
+}
+div{
+    color: green;
+    font-style: italic;
+}
+
+
+    
+
+
+
